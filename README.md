@@ -1,5 +1,7 @@
 Hi 👋 My name is Pierce Rogg
-============================Web Developer and Business Owner--------------------------------I've been coding for 3 years. I started as a Full Stack Developer apprentice for a start up and am currently a Project Manager / Engineering Lead for the same startup. I recently opened my own Freelance business Blue Devil Development.* 🌍  I'm based in Michigan* 🖥️  See my portfolio at [My Portfolio](http://frosty-wiles-fddc98.netlify.app/)* ✉️  You can contact me at [ptrogg1992@gmail.com](mailto:ptrogg1992@gmail.com)* 🚀  I'm currently working on [OurBytes](http://ourbytes.net)* 🧠  I'm learning Golang and Java* 🤝  I'm open to collaborating on Angular and Vue Projects
+Web Developer and Business Owner
+
+I've been coding for 3 years. I started as a Full Stack Developer apprentice for a start up and am currently a Project Manager / Engineering Lead for the same startup. I recently opened my own Freelance business Blue Devil Development.* 🌍  I'm based in Michigan* 🖥️  See my portfolio at [My Portfolio](http://frosty-wiles-fddc98.netlify.app/)* ✉️  You can contact me at [ptrogg1992@gmail.com](mailto:ptrogg1992@gmail.com)* 🚀  I'm currently working on [OurBytes](http://ourbytes.net)* 🧠  I'm learning Golang and Java* 🤝  I'm open to collaborating on Angular and Vue Projects
 
 ### Skills
 
