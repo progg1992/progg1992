@@ -17,9 +17,9 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 
 <a href="http://www.github.com/progg1992"><img src="https://github-readme-stats.vercel.app/api?username=progg1992&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="progg1992's GitHub stats" /></a> -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2050%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-833%20Thousand%20lines%20of%20code-blue)
 
@@ -64,15 +64,18 @@ Sunday       12 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Go                       37 mins             ████████████████████████░   97.25% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.75%
+Go                       38 mins             ███████████████░░░░░░░░░░   60.21% 
+Markdown                 21 mins             ████████░░░░░░░░░░░░░░░░░   33.49% 
+YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.64% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.66%
 
 🔥 Editors: 
-VS Code                  38 mins             █████████████████████████   100.0%
+VS Code                  1 hr 3 mins         █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-goServer                 19 mins             ████████████░░░░░░░░░░░░░   50.88% 
-Go-Projects              18 mins             ████████████░░░░░░░░░░░░░   49.12%
+progg1992                24 mins             █████████░░░░░░░░░░░░░░░░   38.13% 
+goServer                 20 mins             ████████░░░░░░░░░░░░░░░░░   32.12% 
+Go-Projects              18 mins             ███████░░░░░░░░░░░░░░░░░░   29.76%
 
 ```
 
@@ -93,5 +96,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/progg1992/progg1992/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/01/2023 20:40:23 UTC
+ Last Updated on 28/01/2023 18:38:14 UTC
 <!--END_SECTION:waka-->
