@@ -17,7 +17,7 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 
 <a href="http://www.github.com/progg1992"><img src="https://github-readme-stats.vercel.app/api?username=progg1992&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="progg1992's GitHub stats" /></a> -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -64,15 +64,18 @@ Sunday          12 commits       ████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-TypeScript               30 mins             ███████████████░░░░░░░░░░   61.50 % 
-JSON                     17 mins             ████████░░░░░░░░░░░░░░░░░   34.23 % 
-Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+JavaScript               1 hr 20 mins        ███████████████░░░░░░░░░░   61.52 % 
+TypeScript               30 mins             █████░░░░░░░░░░░░░░░░░░░░   23.42 % 
+JSON                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-VS Code                  49 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-felonydiscrimination     49 mins             █████████████████████████   100.00 % 
+Pipedream                1 hr 21 mins        ███████████████░░░░░░░░░░   61.92 % 
+felonydiscrimination     49 mins             █████████░░░░░░░░░░░░░░░░   38.08 % 
 
 ```
 
@@ -93,5 +96,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/progg1992/progg1992/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/02/2023 18:41:31 UTC
+ Last Updated on 15/02/2023 18:42:06 UTC
 <!--END_SECTION:waka-->
