@@ -17,11 +17,11 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 
 <a href="http://www.github.com/progg1992"><img src="https://github-readme-stats.vercel.app/api?username=progg1992&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="progg1992's GitHub stats" /></a> -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-833%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-922%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -64,19 +64,19 @@ Sunday          12 commits       ████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JavaScript               1 hr 26 mins        ████████████░░░░░░░░░░░░░   48.02 % 
-TypeScript               30 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Markdown                 27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Text                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+JavaScript               1 hr 26 mins        ██████████████░░░░░░░░░░░   58.80 % 
+Markdown                 27 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.49 % 
+Text                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+TypeScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🔥 Editors: 
-VS Code                  3 hrs               █████████████████████████   100.00 % 
+VS Code                  2 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Pipedream                1 hr 27 mins        ████████████░░░░░░░░░░░░░   48.31 % 
-openai-quickstart-python 46 mins             ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
-felonydiscrimination     46 mins             ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
+Pipedream                1 hr 27 mins        ██████████████░░░░░░░░░░░   59.16 % 
+openai-quickstart-python 46 mins             ████████░░░░░░░░░░░░░░░░░   31.81 % 
+felonydiscrimination     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
 
 ```
 
@@ -97,5 +97,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/progg1992/progg1992/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/02/2023 18:41:13 UTC
+ Last Updated on 18/02/2023 18:37:40 UTC
 <!--END_SECTION:waka-->
