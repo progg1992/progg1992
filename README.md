@@ -17,7 +17,7 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 
 <a href="http://www.github.com/progg1992"><img src="https://github-readme-stats.vercel.app/api?username=progg1992&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="progg1992's GitHub stats" /></a> -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -25,7 +25,7 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 
 **🐱 My GitHub Data** 
 
-> 📦 110.2 kB Used in GitHub's Storage 
+> 📦 110.3 kB Used in GitHub's Storage 
  > 
 > 🏆 19 Contributions in the Year 2023
  > 
@@ -62,21 +62,21 @@ Sunday                   24 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JSON                     11 hrs 49 mins      █████████████████░░░░░░░░   67.50 % 
-Python                   3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
-CSV                      52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-PHP                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-CSS                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Python                   3 hrs 31 mins       ███████████████░░░░░░░░░░   61.81 % 
+CSV                      52 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+JSON                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+CSS                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 30 mins      █████████████████████████   100.00 % 
+VS Code                  5 hrs 42 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-formonator               12 hrs              █████████████████░░░░░░░░   68.54 % 
-CataclysmicallyMacabre   4 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
-Wordpress-Plugins        35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-trytuesdaynowstaging-main30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-NakedIntimidation        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+CataclysmicallyMacabre   4 hrs 29 mins       ████████████████████░░░░░   78.76 % 
+Wordpress-Plugins        35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+trytuesdaynowstaging-main30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+formonator               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+NakedIntimidation        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -96,5 +96,5 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/progg1992/progg1992/main/assets/bar_graph.png)
 
 
- Last Updated on 09/04/2023 18:35:41 UTC
+ Last Updated on 10/04/2023 18:36:16 UTC
 <!--END_SECTION:waka-->
