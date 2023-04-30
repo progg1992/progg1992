@@ -17,7 +17,7 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 
 <a href="http://www.github.com/progg1992"><img src="https://github-readme-stats.vercel.app/api?username=progg1992&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="progg1992's GitHub stats" /></a> -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -25,7 +25,7 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 
 **🐱 My GitHub Data** 
 
-> 📦 110.3 kB Used in GitHub's Storage 
+> 📦 110.4 kB Used in GitHub's Storage 
  > 
 > 🏆 42 Contributions in the Year 2023
  > 
@@ -62,18 +62,18 @@ Sunday                   24 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JavaScript               7 hrs 17 mins       ███████████████████░░░░░░   74.23 % 
-Vue.js                   1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-CSV                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+JavaScript               7 hrs 4 mins        ███████████████████░░░░░░   74.46 % 
+Vue.js                   1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 49 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-gfilta                   9 hrs 45 mins       █████████████████████████   99.32 % 
-rage-therapy             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+gfilta                   9 hrs 26 mins       █████████████████████████   99.29 % 
+rage-therapy             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -93,5 +93,5 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/progg1992/progg1992/main/assets/bar_graph.png)
 
 
- Last Updated on 29/04/2023 18:35:33 UTC
+ Last Updated on 30/04/2023 18:36:40 UTC
 <!--END_SECTION:waka-->
