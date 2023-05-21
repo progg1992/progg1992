@@ -17,7 +17,7 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 
 <a href="http://www.github.com/progg1992"><img src="https://github-readme-stats.vercel.app/api?username=progg1992&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="progg1992's GitHub stats" /></a> -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -62,21 +62,21 @@ Sunday                   24 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-PHP                      7 hrs 29 mins       ███████████░░░░░░░░░░░░░░   43.85 % 
-TypeScript               3 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
-Python                   2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-JSON                     2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Other                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+PHP                      7 hrs 29 mins       █████████████░░░░░░░░░░░░   50.70 % 
+TypeScript               3 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   26.52 % 
+JSON                     1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Python                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+TSConfig                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 3 mins       █████████████████████████   100.00 % 
+VS Code                  14 hrs 45 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-GraviMon                 6 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   36.26 % 
-UnfilteredDelights       6 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   35.72 % 
-CataclysmicallyMacabre   2 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-TuesdayGraviMon          53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-MBDGraviMon              37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+GraviMon                 6 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   41.93 % 
+UnfilteredDelights       6 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   41.30 % 
+TuesdayGraviMon          53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+MBDGraviMon              37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+CataclysmicallyMacabre   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -96,5 +96,5 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/progg1992/progg1992/main/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2023 18:35:59 UTC
+ Last Updated on 21/05/2023 18:35:53 UTC
 <!--END_SECTION:waka-->
