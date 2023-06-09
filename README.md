@@ -17,7 +17,7 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 
 <a href="http://www.github.com/progg1992"><img src="https://github-readme-stats.vercel.app/api?username=progg1992&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="progg1992's GitHub stats" /></a> -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-83%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-83%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -62,16 +62,18 @@ Sunday                   24 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-TypeScript               7 mins              ████████████████░░░░░░░░░   65.79 % 
-Other                    3 mins              ███████░░░░░░░░░░░░░░░░░░   27.46 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Other                    11 mins             █████████████░░░░░░░░░░░░   51.39 % 
+TypeScript               7 mins              █████████░░░░░░░░░░░░░░░░   36.44 % 
+PHP                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+VS Code                  21 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-UnfilteredDelights       11 mins             █████████████████████████   100.00 % 
+UnfilteredDelights       11 mins             ██████████████░░░░░░░░░░░   55.40 % 
+Unknown Project          9 mins              ███████████░░░░░░░░░░░░░░   44.60 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,5 +93,5 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/progg1992/progg1992/main/assets/bar_graph.png)
 
 
- Last Updated on 08/06/2023 18:36:42 UTC
+ Last Updated on 09/06/2023 18:35:54 UTC
 <!--END_SECTION:waka-->
