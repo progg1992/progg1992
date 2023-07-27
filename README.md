@@ -17,7 +17,7 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 
 <a href="http://www.github.com/progg1992"><img src="https://github-readme-stats.vercel.app/api?username=progg1992&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="progg1992's GitHub stats" /></a> -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -62,15 +62,20 @@ Sunday                   24 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JSON                     17 mins             ███████████████████░░░░░░   75.03 % 
-Docker                   5 mins              ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
+TypeScript               45 mins             ███████████░░░░░░░░░░░░░░   44.47 % 
+JSON                     21 mins             █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+Other                    14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Vue.js                   10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Docker                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 42 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-felonydiscrimination     17 mins             ███████████████████░░░░░░   75.03 % 
-FelonyDiscrimination.org 5 mins              ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
+UnfilteredDelights       1 hr 6 mins         ████████████████░░░░░░░░░   64.57 % 
+felonydiscrimination     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+gfilta                   13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+FelonyDiscrimination.org 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,5 +95,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/progg1992/progg1992/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2023 18:36:29 UTC
+ Last Updated on 27/07/2023 18:36:24 UTC
 <!--END_SECTION:waka-->
