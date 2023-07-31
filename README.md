@@ -17,7 +17,7 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 
 <a href="http://www.github.com/progg1992"><img src="https://github-readme-stats.vercel.app/api?username=progg1992&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="progg1992's GitHub stats" /></a> -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -27,7 +27,7 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 
 > 📦 114.4 kB Used in GitHub's Storage 
  > 
-> 🏆 236 Contributions in the Year 2023
+> 🏆 237 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -38,21 +38,21 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-🌆 Daytime                176 commits         ███████░░░░░░░░░░░░░░░░░░   27.94 % 
-🌃 Evening                234 commits         █████████░░░░░░░░░░░░░░░░   37.14 % 
-🌙 Night                  183 commits         ███████░░░░░░░░░░░░░░░░░░   29.05 % 
+🌞 Morning                37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+🌆 Daytime                185 commits         ███████░░░░░░░░░░░░░░░░░░   28.95 % 
+🌃 Evening                234 commits         █████████░░░░░░░░░░░░░░░░   36.62 % 
+🌙 Night                  183 commits         ███████░░░░░░░░░░░░░░░░░░   28.64 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Tuesday                  63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Wednesday                100 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Thursday                 93 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Friday                   140 commits         ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Saturday                 132 commits         █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
-Sunday                   24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+Monday                   83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+Tuesday                  66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Wednesday                101 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Thursday                 93 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Friday                   140 commits         █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+Saturday                 132 commits         █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+Sunday                   24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 ```
 
 
@@ -94,5 +94,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/progg1992/progg1992/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2023 18:36:23 UTC
+ Last Updated on 31/07/2023 18:36:33 UTC
 <!--END_SECTION:waka-->
