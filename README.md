@@ -17,7 +17,7 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 
 <a href="http://www.github.com/progg1992"><img src="https://github-readme-stats.vercel.app/api?username=progg1992&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="progg1992's GitHub stats" /></a> -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -62,19 +62,20 @@ Sunday                   24 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-TypeScript               1 hr 24 mins        ██████████████████░░░░░░░   71.70 % 
-HTML                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Assembly                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-TSConfig                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+TypeScript               1 hr 24 mins        ██████████████████░░░░░░░   71.55 % 
+HTML                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+Assembly                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+TSConfig                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🔥 Editors: 
 VS Code                  1 hr 58 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-frontend                 1 hr 45 mins        ██████████████████████░░░   89.11 % 
-Certified-Bice-Ltd       12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+frontend                 1 hr 45 mins        ██████████████████████░░░   88.94 % 
+Certified-Bice-Ltd       12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
 rage-therapy             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+UnmannedEpiphany         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -94,5 +95,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/progg1992/progg1992/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2023 18:36:56 UTC
+ Last Updated on 23/08/2023 18:37:11 UTC
 <!--END_SECTION:waka-->
