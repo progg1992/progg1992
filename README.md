@@ -17,7 +17,7 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 
 <a href="http://www.github.com/progg1992"><img src="https://github-readme-stats.vercel.app/api?username=progg1992&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="progg1992's GitHub stats" /></a> -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-128%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -62,17 +62,17 @@ Sunday                   24 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-TypeScript               3 hrs 48 mins       █████████████████░░░░░░░░   67.30 % 
-SCSS                     1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   28.14 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+TypeScript               1 hr 42 mins        █████████████░░░░░░░░░░░░   50.25 % 
+SCSS                     1 hr 35 mins        ████████████░░░░░░░░░░░░░   46.83 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 39 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-frontend                 5 hrs 39 mins       █████████████████████████   100.00 % 
+frontend                 3 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,5 +92,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/progg1992/progg1992/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2023 18:37:23 UTC
+ Last Updated on 31/08/2023 18:37:09 UTC
 <!--END_SECTION:waka-->
