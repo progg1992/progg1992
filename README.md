@@ -17,7 +17,7 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 
 <a href="http://www.github.com/progg1992"><img src="https://github-readme-stats.vercel.app/api?username=progg1992&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="progg1992's GitHub stats" /></a> -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-133%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -62,21 +62,21 @@ Sunday                   26 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JSON                     2 hrs 21 mins       ████████████░░░░░░░░░░░░░   48.09 % 
-TypeScript               1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
-JavaScript               58 mins             █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-ActionScript             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+JSON                     2 hrs 24 mins       ███████████░░░░░░░░░░░░░░   45.11 % 
+TypeScript               1 hr 31 mins        ███████░░░░░░░░░░░░░░░░░░   28.58 % 
+JavaScript               58 mins             █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+ActionScript             6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 54 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 20 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-NakedIntimidation        1 hr 53 mins        ██████████░░░░░░░░░░░░░░░   38.60 % 
-UnfilteredDelights       1 hr 45 mins        █████████░░░░░░░░░░░░░░░░   35.92 % 
-ChatBypass               1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
-UnmannedEpiphany         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-FelonyDiscrimination.org 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+UnfilteredDelights       2 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   40.19 % 
+NakedIntimidation        1 hr 56 mins        █████████░░░░░░░░░░░░░░░░   36.37 % 
+ChatBypass               1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+UnmannedEpiphany         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+FelonyDiscrimination.org 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -96,5 +96,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/progg1992/progg1992/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2023 18:37:41 UTC
+ Last Updated on 14/09/2023 18:36:33 UTC
 <!--END_SECTION:waka-->
