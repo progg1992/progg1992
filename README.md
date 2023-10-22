@@ -62,13 +62,16 @@ Sunday                   22 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     35 mins             █████████████████████░░░░   83.66 % 
+Prolog                   5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Makefile                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  41 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Automated-Log-Management 36 mins             ██████████████████████░░░   86.63 % 
+TD&T                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -88,5 +91,5 @@ Rust                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/progg1992/progg1992/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2023 18:35:32 UTC
+ Last Updated on 22/10/2023 18:35:30 UTC
 <!--END_SECTION:waka-->
