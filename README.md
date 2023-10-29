@@ -17,7 +17,7 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 
 <a href="http://www.github.com/progg1992"><img src="https://github-readme-stats.vercel.app/api?username=progg1992&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="progg1992's GitHub stats" /></a> -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -62,20 +62,17 @@ Sunday                   22 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JavaScript               52 mins             █████████████░░░░░░░░░░░░   50.44 % 
-Bash                     35 mins             ████████░░░░░░░░░░░░░░░░░   33.65 % 
-JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-Prolog                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-Makefile                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+JavaScript               1 hr 45 mins        ████████████████████░░░░░   78.78 % 
+JSON                     26 mins             █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-VS Code                  1 hr 44 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 13 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portfolio                48 mins             ████████████░░░░░░░░░░░░░   46.34 % 
-Automated-Log-Management 36 mins             █████████░░░░░░░░░░░░░░░░   34.85 % 
-NextJs-Projects          14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-TD&T                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+portfolio                1 hr 59 mins        ██████████████████████░░░   89.50 % 
+NextJs-Projects          14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -95,5 +92,5 @@ Rust                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/progg1992/progg1992/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2023 18:35:36 UTC
+ Last Updated on 29/10/2023 18:35:34 UTC
 <!--END_SECTION:waka-->
