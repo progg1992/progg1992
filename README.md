@@ -27,6 +27,8 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 
 > 📦 116.1 kB Used in GitHub's Storage 
  > 
+> 🏆 202 Contributions in the Year 2023
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 18 Public Repositories 
@@ -86,5 +88,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/progg1992/progg1992/main/assets/bar_graph.png)
 
 
- Last Updated on 11/11/2023 18:35:36 UTC
+ Last Updated on 12/11/2023 18:35:32 UTC
 <!--END_SECTION:waka-->
