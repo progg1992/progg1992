@@ -17,8 +17,6 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 
 <a href="http://www.github.com/progg1992"><img src="https://github-readme-stats.vercel.app/api?username=progg1992&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="progg1992's GitHub stats" /></a> -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2035%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
@@ -35,42 +33,6 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-🌆 Daytime                64 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-🌃 Evening                170 commits         ███████████░░░░░░░░░░░░░░   42.82 % 
-🌙 Night                  153 commits         ██████████░░░░░░░░░░░░░░░   38.54 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   61 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Tuesday                  19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-Wednesday                40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-Thursday                 43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Friday                   92 commits          ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
-Saturday                 111 commits         ███████░░░░░░░░░░░░░░░░░░   27.96 % 
-Sunday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Chicago
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -88,5 +50,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/progg1992/progg1992/main/assets/bar_graph.png)
 
 
- Last Updated on 05/12/2023 18:36:18 UTC
+ Last Updated on 06/12/2023 18:37:04 UTC
 <!--END_SECTION:waka-->
