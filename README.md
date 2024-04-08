@@ -60,13 +60,13 @@ Sunday                   38 commits          ███████░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Dart                     2 hrs 27 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 27 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-quiz_app                 2 hrs 27 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,5 +86,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/progg1992/progg1992/main/assets/bar_graph.png)
 
 
- Last Updated on 07/04/2024 18:35:23 UTC
+ Last Updated on 08/04/2024 18:37:34 UTC
 <!--END_SECTION:waka-->
