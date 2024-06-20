@@ -27,8 +27,6 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 
 > 📦 130.0 kB Used in GitHub's Storage 
  > 
-> 🏆 30 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 21 Public Repositories 
@@ -62,9 +60,9 @@ Sunday                   38 commits          ███████░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JavaScript               4 hrs 27 mins       ███████████████████████░░   92.40 % 
+JavaScript               4 hrs 27 mins       ███████████████████████░░   92.41 % 
 Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🔥 Editors: 
@@ -91,5 +89,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/progg1992/progg1992/main/assets/bar_graph.png)
 
 
- Last Updated on 19/06/2024 18:38:29 UTC
+ Last Updated on 20/06/2024 18:37:42 UTC
 <!--END_SECTION:waka-->
