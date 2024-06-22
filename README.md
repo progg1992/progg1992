@@ -17,7 +17,7 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 
 <a href="http://www.github.com/progg1992"><img src="https://github-readme-stats.vercel.app/api?username=progg1992&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="progg1992's GitHub stats" /></a> -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -26,6 +26,8 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 **🐱 My GitHub Data** 
 
 > 📦 130.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 37 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -36,21 +38,21 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-🌆 Daytime                34 commits          ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
-🌃 Evening                61 commits          ██████████░░░░░░░░░░░░░░░   40.40 % 
-🌙 Night                  44 commits          ███████░░░░░░░░░░░░░░░░░░   29.14 % 
+🌞 Morning                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+🌆 Daytime                34 commits          ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+🌃 Evening                63 commits          ██████████░░░░░░░░░░░░░░░   41.18 % 
+🌙 Night                  44 commits          ███████░░░░░░░░░░░░░░░░░░   28.76 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   30 commits          █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-Tuesday                  14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Wednesday                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-Thursday                 13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-Friday                   26 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-Saturday                 24 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-Sunday                   38 commits          ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
+Monday                   30 commits          █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
+Tuesday                  14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Wednesday                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Thursday                 13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+Friday                   28 commits          █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+Saturday                 24 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Sunday                   38 commits          ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
 ```
 
 
@@ -89,5 +91,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/progg1992/progg1992/main/assets/bar_graph.png)
 
 
- Last Updated on 21/06/2024 18:38:07 UTC
+ Last Updated on 22/06/2024 18:36:23 UTC
 <!--END_SECTION:waka-->
