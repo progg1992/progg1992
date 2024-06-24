@@ -17,7 +17,7 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 
 <a href="http://www.github.com/progg1992"><img src="https://github-readme-stats.vercel.app/api?username=progg1992&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="progg1992's GitHub stats" /></a> -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -26,8 +26,6 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 **🐱 My GitHub Data** 
 
 > 📦 130.0 kB Used in GitHub's Storage 
- > 
-> 🏆 44 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -62,16 +60,15 @@ Sunday                   38 commits          ██████░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JavaScript               8 hrs 17 mins       ████████████████████████░   94.73 % 
-Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+JavaScript               5 hrs 33 mins       ████████████████████████░   97.93 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 45 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-chatgpt-clone            8 hrs 45 mins       █████████████████████████   100.00 % 
+chatgpt-clone            5 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,5 +88,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/progg1992/progg1992/main/assets/bar_graph.png)
 
 
- Last Updated on 23/06/2024 18:36:07 UTC
+ Last Updated on 24/06/2024 18:38:02 UTC
 <!--END_SECTION:waka-->
