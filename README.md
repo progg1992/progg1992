@@ -17,7 +17,7 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 
 <a href="http://www.github.com/progg1992"><img src="https://github-readme-stats.vercel.app/api?username=progg1992&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="progg1992's GitHub stats" /></a> -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-155%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -26,8 +26,6 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 **🐱 My GitHub Data** 
 
 > 📦 130.0 kB Used in GitHub's Storage 
- > 
-> 🏆 44 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -62,19 +60,19 @@ Sunday                   38 commits          ██████░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JavaScript               4 hrs 38 mins       ███████████████████████░░   93.25 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+JavaScript               4 hrs 50 mins       ███████████████████████░░   93.52 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 58 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-chatgpt-clone            4 hrs 2 mins        ████████████████████░░░░░   81.38 % 
-client                   46 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-chatgpt-clone-react      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+chatgpt-clone            4 hrs 2 mins        ████████████████████░░░░░   78.13 % 
+client                   56 mins             █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+chatgpt-clone-react      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -94,5 +92,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/progg1992/progg1992/main/assets/bar_graph.png)
 
 
- Last Updated on 25/06/2024 18:38:57 UTC
+ Last Updated on 26/06/2024 18:38:56 UTC
 <!--END_SECTION:waka-->
