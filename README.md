@@ -62,13 +62,18 @@ Sunday                   38 commits          ██████░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 1 min          ████████████████████████░   94.26 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 5 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+chatgpt-clone-next       58 mins             ██████████████████████░░░   88.66 % 
+client                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+chatgpt-clone-react      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -88,5 +93,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/progg1992/progg1992/main/assets/bar_graph.png)
 
 
- Last Updated on 09/07/2024 18:38:40 UTC
+ Last Updated on 10/07/2024 18:40:05 UTC
 <!--END_SECTION:waka-->
