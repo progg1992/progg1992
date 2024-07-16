@@ -17,7 +17,7 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 
 <a href="http://www.github.com/progg1992"><img src="https://github-readme-stats.vercel.app/api?username=progg1992&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="progg1992's GitHub stats" /></a> -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-158%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-158%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -25,7 +25,9 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 
 **🐱 My GitHub Data** 
 
-> 📦 130.2 kB Used in GitHub's Storage 
+> 📦 130.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 50 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -91,5 +93,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/progg1992/progg1992/main/assets/bar_graph.png)
 
 
- Last Updated on 15/07/2024 18:41:42 UTC
+ Last Updated on 16/07/2024 18:41:09 UTC
 <!--END_SECTION:waka-->
