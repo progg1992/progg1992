@@ -60,15 +60,13 @@ Sunday                   121 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JavaScript               11 mins             ████████████░░░░░░░░░░░░░   49.86 % 
-Other                    9 mins              ███████████░░░░░░░░░░░░░░   44.36 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-VictoriousFatality       22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -88,5 +86,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/progg1992/progg1992/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2024 18:41:03 UTC
+ Last Updated on 31/07/2024 18:41:39 UTC
 <!--END_SECTION:waka-->
