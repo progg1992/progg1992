@@ -17,7 +17,7 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 
 <a href="http://www.github.com/progg1992"><img src="https://github-readme-stats.vercel.app/api?username=progg1992&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="progg1992's GitHub stats" /></a> -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-187%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-188%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -26,6 +26,8 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 **🐱 My GitHub Data** 
 
 > 📦 162.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 77 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -60,20 +62,20 @@ Sunday                   128 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JavaScript               10 hrs 40 mins      ██████████████████████░░░   88.56 % 
-TypeScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-CSS                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+JavaScript               11 hrs 38 mins      ██████████████████████░░░   89.23 % 
+TypeScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+CSS                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Other                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 2 mins       █████████████████████████   100.00 % 
+VS Code                  13 hrs 2 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nextJS-portfolio         8 hrs 27 mins       ██████████████████░░░░░░░   70.17 % 
-VictoriousFatality       2 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
-multi-step-form          32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-react-git-interview      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+nextJS-portfolio         8 hrs 27 mins       ████████████████░░░░░░░░░   64.82 % 
+VictoriousFatality       3 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   29.58 % 
+multi-step-form          32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+react-git-interview      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,5 +95,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/progg1992/progg1992/main/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2024 18:43:12 UTC
+ Last Updated on 13/10/2024 18:43:17 UTC
 <!--END_SECTION:waka-->
