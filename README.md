@@ -19,15 +19,13 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 162.2 kB Used in GitHub's Storage 
- > 
-> 🏆 77 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -62,20 +60,17 @@ Sunday                   128 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JavaScript               5 hrs 46 mins       ██████████████████████░░░   88.60 % 
-TypeScript               23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-SCSS                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+JavaScript               6 hrs 9 mins        ████████████████████████░   96.48 % 
+SCSS                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 30 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VictoriousFatality       5 hrs 10 mins       ████████████████████░░░░░   79.39 % 
-nextJS-portfolio         36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-multi-step-form          32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-react-git-interview      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+VictoriousFatality       6 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -95,5 +90,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/progg1992/progg1992/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2024 18:46:02 UTC
+ Last Updated on 16/10/2024 18:45:55 UTC
 <!--END_SECTION:waka-->
