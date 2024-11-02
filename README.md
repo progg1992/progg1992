@@ -17,7 +17,7 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 
 <a href="http://www.github.com/progg1992"><img src="https://github-readme-stats.vercel.app/api?username=progg1992&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="progg1992's GitHub stats" /></a> -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -60,21 +60,21 @@ Sunday                   128 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-TypeScript               13 hrs 28 mins      █████████████░░░░░░░░░░░░   50.54 % 
-JavaScript               4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-JSON                     4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Markdown                 1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Vue.js                   59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+TypeScript               11 hrs 54 mins      ████████████░░░░░░░░░░░░░   48.61 % 
+JavaScript               4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+JSON                     3 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Markdown                 1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Vue.js                   59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 38 mins      █████████████████████████   100.00 % 
+VS Code                  24 hrs 30 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-atomic-design-system     14 hrs 44 mins      ██████████████░░░░░░░░░░░   55.34 % 
-PensiveCricket           2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-VictoriousFatality       1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-WistfulFerret            1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-TenaciousOtter           1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+atomic-design-system     14 hrs 44 mins      ███████████████░░░░░░░░░░   60.18 % 
+VictoriousFatality       1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+WistfulFerret            1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+TenaciousOtter           1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+Coding Tests             1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -94,5 +94,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/progg1992/progg1992/main/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2024 18:45:51 UTC
+ Last Updated on 02/11/2024 18:43:25 UTC
 <!--END_SECTION:waka-->
