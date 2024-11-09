@@ -27,8 +27,6 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 
 > 📦 162.4 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 23 Public Repositories 
@@ -62,16 +60,15 @@ Sunday                   134 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JavaScript               3 hrs 5 mins        ████████████████████░░░░░   79.03 % 
-Other                    42 mins             █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+JavaScript               3 hrs 33 mins       ████████████████████░░░░░   81.25 % 
+Other                    42 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 54 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VictoriousFatality       3 hrs 54 mins       █████████████████████████   99.99 % 
-Coding Tests             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+VictoriousFatality       4 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,5 +88,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/progg1992/progg1992/main/assets/bar_graph.png)
 
 
- Last Updated on 08/11/2024 18:45:23 UTC
+ Last Updated on 09/11/2024 18:42:15 UTC
 <!--END_SECTION:waka-->
