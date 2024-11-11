@@ -17,13 +17,17 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 
 <a href="http://www.github.com/progg1992"><img src="https://github-readme-stats.vercel.app/api?username=progg1992&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="progg1992's GitHub stats" /></a> -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-237%20hrs%2045%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 162.4 kB Used in GitHub's Storage 
+> 📦 162.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 97 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -58,15 +62,18 @@ Sunday                   136 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JavaScript               6 hrs 6 mins        ██████████████████████░░░   88.14 % 
-Other                    42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+JavaScript               3 hrs 25 mins       ████████████████░░░░░░░░░   65.25 % 
+Other                    45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+TypeScript               34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 55 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 14 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VictoriousFatality       6 hrs 55 mins       █████████████████████████   100.00 % 
+VictoriousFatality       3 hrs 57 mins       ███████████████████░░░░░░   75.32 % 
+codingAssesments         1 hr 17 mins        ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,5 +93,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/progg1992/progg1992/main/assets/bar_graph.png)
 
 
- Last Updated on 10/11/2024 18:42:06 UTC
+ Last Updated on 11/11/2024 18:44:54 UTC
 <!--END_SECTION:waka-->
