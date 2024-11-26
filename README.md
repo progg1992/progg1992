@@ -17,7 +17,7 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 
 <a href="http://www.github.com/progg1992"><img src="https://github-readme-stats.vercel.app/api?username=progg1992&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="progg1992's GitHub stats" /></a> -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-241%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -26,8 +26,6 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 **🐱 My GitHub Data** 
 
 > 📦 162.5 kB Used in GitHub's Storage 
- > 
-> 🏆 100 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -62,21 +60,21 @@ Sunday                   130 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Other                    47 mins             ███████████░░░░░░░░░░░░░░   43.43 % 
-TypeScript               31 mins             ███████░░░░░░░░░░░░░░░░░░   28.66 % 
-Docker                   19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+TypeScript               2 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   36.44 % 
+Go                       1 hr 57 mins        ████████░░░░░░░░░░░░░░░░░   33.18 % 
+Other                    47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Docker                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 
 🔥 Editors: 
-VS Code                  1 hr 49 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 54 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VictoriousFatality       47 mins             ███████████░░░░░░░░░░░░░░   43.30 % 
-uptime                   32 mins             ███████░░░░░░░░░░░░░░░░░░   29.94 % 
-wordpress-docker         20 mins             █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-atomic-design-system     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-src                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+booking-system           2 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   40.58 % 
+uptime                   2 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   37.81 % 
+VictoriousFatality       47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+wordpress-docker         20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+atomic-design-system     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -96,5 +94,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/progg1992/progg1992/main/assets/bar_graph.png)
 
 
- Last Updated on 25/11/2024 18:48:35 UTC
+ Last Updated on 26/11/2024 18:47:45 UTC
 <!--END_SECTION:waka-->
