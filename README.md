@@ -60,18 +60,13 @@ Sunday                   130 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Go                       1 hr 57 mins        ████████████░░░░░░░░░░░░░   47.95 % 
-TypeScript               1 hr 37 mins        ██████████░░░░░░░░░░░░░░░   39.90 % 
-SQL                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 5 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-booking-system           2 hrs 24 mins       ███████████████░░░░░░░░░░   58.65 % 
-uptime                   1 hr 41 mins        ██████████░░░░░░░░░░░░░░░   41.35 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,5 +86,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/progg1992/progg1992/main/assets/bar_graph.png)
 
 
- Last Updated on 02/12/2024 18:49:08 UTC
+ Last Updated on 03/12/2024 18:47:21 UTC
 <!--END_SECTION:waka-->
