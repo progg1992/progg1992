@@ -17,7 +17,7 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 
 <a href="http://www.github.com/progg1992"><img src="https://github-readme-stats.vercel.app/api?username=progg1992&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="progg1992's GitHub stats" /></a> -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -60,16 +60,13 @@ Sunday                   130 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JavaScript               1 hr 52 mins        ████████████████████████░   96.47 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+JavaScript               2 hrs 43 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 56 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 43 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VictoriousFatality       1 hr 52 mins        ████████████████████████░   96.47 % 
-CataclysmicallyMacabre   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+VictoriousFatality       2 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -89,5 +86,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/progg1992/progg1992/main/assets/bar_graph.png)
 
 
- Last Updated on 21/12/2024 18:43:13 UTC
+ Last Updated on 22/12/2024 18:42:37 UTC
 <!--END_SECTION:waka-->
