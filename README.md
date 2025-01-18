@@ -60,16 +60,13 @@ Sunday                   48 commits          ██████░░░░░�
 🕑︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-INI                      11 mins             ████████████████░░░░░░░░░   65.13 % 
-Bash                     5 mins              ████████░░░░░░░░░░░░░░░░░   32.65 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Laravel                  17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -89,5 +86,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/progg1992/progg1992/main/assets/bar_graph.png)
 
 
- Last Updated on 17/01/2025 18:41:32 UTC
+ Last Updated on 18/01/2025 18:39:19 UTC
 <!--END_SECTION:waka-->
