@@ -27,8 +27,6 @@ I've been coding for 3 years. I started as a Full Stack Developer apprentice for
 
 > 📦 191.2 kB Used in GitHub's Storage 
  > 
-> 🏆 50 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 24 Public Repositories 
@@ -88,5 +86,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/progg1992/progg1992/main/assets/bar_graph.png)
 
 
- Last Updated on 24/02/2025 18:44:47 UTC
+ Last Updated on 25/02/2025 18:44:48 UTC
 <!--END_SECTION:waka-->
